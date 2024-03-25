@@ -1,4 +1,10 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 -e .
+
+#comment -e . when you type 'pip install -r requirements.txt'
